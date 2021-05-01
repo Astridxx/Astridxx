@@ -3,9 +3,6 @@
 <a href="https://t.me/Astridxx">
 <img align="left" alt="Astridxx's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/muratkzn0">
-<img align="left" alt="Astridxx's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 ![](https://komarev.com/ghpvc/?username=Astridxx)
 
